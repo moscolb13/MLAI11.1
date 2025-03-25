@@ -3,7 +3,7 @@ ML/AI assignment 11.1
 
 Used Car Price Modeling – Assignment 1.11
 Overview
-This project explores a dataset of used vehicle listings with the goal of identifying which features most influence a car's price. The original dataset included numerous columns with missing or inconsistent data. To simplify the analysis and focus on interpretability, we selected only the numeric features most likely to impact price: year and odometer.
+I did 2 versions of this assignment - see "v2" and "v3." Neither is very good. This project explores a dataset of used vehicle listings with the goal of identifying which features most influence a car's price. The original dataset included numerous columns with missing or inconsistent data. To simplify the analysis and focus on interpretability, we selected only the numeric features most likely to impact price: year and odometer.
 
 Data Preparation
 Loaded and inspected a dataset of over 426,000 used vehicle listings
